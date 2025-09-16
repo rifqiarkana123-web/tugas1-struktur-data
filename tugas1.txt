@@ -1,1 +1,3 @@
 holaa! saya rifqi arkana
+
+ini adalah tugas1 dari mata kuliah struktur data
